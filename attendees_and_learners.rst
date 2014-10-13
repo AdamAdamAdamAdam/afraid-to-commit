@@ -8,11 +8,18 @@ or followed the tutorial in their own time.
 Workshops
 =========
 
-PyCon Ireland in Dublin, 14th October 2013
+PyCon Ireland in Dublin, 13th October 2014
 ------------------------------------------
 
-* Nadja Deininger
-* Adam Dickey 
+* Laura Duggan https://github.com/labhra
+* Conor McGee <mcgeeco@tcd.ie> https://github.com/mcgeeco
+* Nadja Deininger https://github.com/machinelady
+* Andrew McCarthy
+* Brian McDonnell (https://github.com/brianmcdonnell/)
+* Brendan Cahill
+* Adam Dickey <adam_oasis@hotmail.co.uk> git@github.com:AdamAdamAdamAdam/afraid-to-commit.git
+* Paul O'Grady (Twitter: @paul_ogrady; GITHub: paulogrady)
+* Jenny DiMiceli
 
 PyCon UK in Coventry, 20th September 2014
 -----------------------------------------
