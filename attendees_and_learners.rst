@@ -17,7 +17,7 @@ PyCon Ireland in Dublin, 13th October 2014
 * Andrew McCarthy
 * Brian McDonnell (https://github.com/brianmcdonnell/)
 * Brendan Cahill
-* Adam Dickey
+* Adam Dickey <adam_oasis@hotmail.co.uk>
 * Paul O'Grady (Twitter: @paul_ogrady; GITHub: paulogrady)
 * Jenny DiMiceli
 
